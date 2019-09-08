@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sudirmansyah Calendar</string>
+    <string name="appwidget_text">SDRWidget</string>
+    <string name="add_widget">Add SDRWidget</string>
+</resources>
